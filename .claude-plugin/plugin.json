@@ -1,0 +1,20 @@
+{
+  "name": "gooseworks-signals",
+  "version": "3.5.2",
+  "description": "Keep brand knowledge, read connected business data, research competitors and social posts, and manage files with GooseWorks in your AI app.",
+  "author": {
+    "name": "GooseWorks",
+    "email": "goose@gooseworks.ai",
+    "url": "https://gooseworks.ai"
+  },
+  "homepage": "https://gooseworks.ai",
+  "license": "UNLICENSED",
+  "keywords": [
+    "brand",
+    "research",
+    "competitors",
+    "analytics",
+    "files",
+    "marketing"
+  ]
+}
