@@ -17,5 +17,10 @@
     "files",
     "marketing"
   ],
-  "privacyPolicyUrl": "https://gooseworks.ai/privacy"
+  "displayName": "GooseWorks Signals",
+  "repository": "https://github.com/gooseworks-ai/gooseworks-signals",
+  "documentationUrl": "https://docs.growth.gooseworks.ai/docs/connect-your-ai-app/",
+  "supportUrl": "https://docs.growth.gooseworks.ai",
+  "privacyPolicyUrl": "https://gooseworks.ai/privacy",
+  "termsOfServiceUrl": "https://gooseworks.ai/terms"
 }
