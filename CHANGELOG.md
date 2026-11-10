@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.5.3
+
+- The Claude plugin has its own icon and lists its privacy policy.
+
+## 3.5.2
+
+- The ChatGPT review package carries the demo recording.
+
 ## 3.5.1
 
 - The plugin lists its support, privacy and terms pages for app directories.

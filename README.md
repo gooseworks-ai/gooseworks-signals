@@ -21,7 +21,7 @@ Paid research shows its price in credits first. Approve it on its card or at its
 
 ## What's inside
 
-The six skills cover brand setup, brand files, competitor research, social inspiration, supplied footage search, and ad and website results. The connector files keep the GooseWorks address and browser sign-in for Claude, ChatGPT, Codex and Cursor.
+The skills cover brand setup, brand files, brand pages, findings, competitor research, social inspiration, email gaps, supplied footage search, and ad and website results. The connector files keep the GooseWorks address and browser sign-in for Claude, ChatGPT, Codex and Cursor.
 
 ## Help
 
